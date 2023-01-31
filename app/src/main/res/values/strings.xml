@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="_0_c">0°C</string>
+    <string name="loading">Loading</string>
+    <string name="change_city">Change City</string>
+    <string name="enter_city">Enter City</string>
+</resources>
