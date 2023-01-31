@@ -29,7 +29,8 @@ import cz.msebera.android.httpclient.Header;
 public class MainActivity extends AppCompatActivity {
 
     //Initialise the variables needed later on and the API_KEY is the variable that may need to be changed
-    final String API_KEY = "3e00c3e05331824662cb8f655f1d8393";
+    //Enter your new API KEY here
+    final String API_KEY = "";
     TextView cityName, cityWeatherState, cityTemperature;
     RelativeLayout findNewCity;
     LocationManager currentLocationManager;
